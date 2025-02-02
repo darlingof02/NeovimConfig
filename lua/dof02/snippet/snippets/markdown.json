@@ -1,0 +1,28 @@
+{
+  "hiden solution": {
+    "prefix": "tp",
+    "body": [
+      "<details>",
+      "  <summary>${1:Solution}</summary>",
+      "",
+      "```${2:python}",
+      "",
+      "```",
+      "",
+      "</details>",
+      "$0"
+    ],
+    "description": "Insert hiden soluion"
+  },
+  "hint": {
+    "prefix": "hint",
+    "body": [
+      "<details>",
+      "  <summary>${1:Hint}</summary>",
+      "",
+      "</details>",
+      "$0"
+    ],
+    "description": "Insert Hint"
+  }
+}
